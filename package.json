@@ -1,0 +1,11 @@
+{
+  "name": "d2l-locker-api",
+  "version": "1.0.0",
+  "description": "No description",
+  "main": "lockerAPIWrapper.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "gshawm",
+  "license": "UNLICENSED"
+}
